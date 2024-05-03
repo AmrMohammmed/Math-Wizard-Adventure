@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\amr\source\repos\math wizard adventure\math wizard adventure\source.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\amr\source\repos\math wizard adventure\math wizard adventure\source.cpp(77): warning C4101: 'bad_cin': unreferenced local variable
+c:\users\amr\source\repos\math wizard adventure\math wizard adventure\source.cpp(130): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 113 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Math Wizard Adventure.vcxproj -> C:\Users\amr\source\repos\Math Wizard Adventure\x64\Release\Math Wizard Adventure.exe
